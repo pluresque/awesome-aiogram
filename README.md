@@ -59,10 +59,11 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
   * [Exceptions](https://docs.aiogram.dev/en/latest/utils/exceptions.html). 
 * [Aiogram examples](https://github.com/aiogram/aiogram/tree/dev-2.x/examples) - aiogram usage examples.
 * [API Docs](https://core.telegram.org/bots/api) - an official Telegram Bot API documentation.
-* [Update channel](https://t.me/aiogram_live) - a channel with aiogram updates.
+* [Aiogram news](https://t.me/aiogram_live) - a channel with aiogram news.
+* [Bot API news](https://t.me/BotNews) - a channel with Bot API news
 * [Разработка Telegram Bot на Python](https://www.youtube.com/playlist?list=PLwVBSkoL97Q3phZRyInbM4lShvS1cBl-U) - video lessons (RU).
 * [Пишем Telegram-ботов на Python (v2)](https://mastergroosha.github.io/telegram-tutorial-2/) - a book (RU).
-* [Разработка Телеграм ботов на Python](https://t.me/botfatherdev) - a channel with some tips (RU).
+* [Разработка Телеграм ботов на Python](https://t.me/botfatherdev) - a telegram channel with some tips (RU).
 
 # Contributing
 
