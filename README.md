@@ -1,6 +1,6 @@
 # Awesome Aiogram [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome aiogram templates, libraries, open-source bots and resources. It's based on this [message](https://t.me/aiogram_ru/168411). Inspired by [awesome-python](https://github.com/vinta/awesome-python)
+A curated list of awesome aiogram templates, libraries, open-source bots and resources. It's based on this [message](https://t.me/aiogram_ru/168411) and inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 * [Awesome Aiogram](#awesome-aiogram)
   * [Templates](#templates)
@@ -14,9 +14,9 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
 *Template repositories*
 
  * [aiogram-bot-template](https://github.com/Forden/aiogram-bot-template) - a template for creating scalable bots with aiogram by F0rden.
- * [aiogram-bot-template](https://github.com/Latand/aiogram-bot-template) - a template created by Latand.
- * [aiogram-template](https://github.com/F0rzend/aiogram-template) - a template created by F0rzend.
- * [tgbot_template](https://github.com/Tishka17/tgbot_template) - a template created by Tishka17.
+ * [aiogram-bot-template](https://github.com/Latand/aiogram-bot-template).
+ * [aiogram-template](https://github.com/F0rzend/aiogram-template).
+ * [tgbot_template](https://github.com/Tishka17/tgbot_template).
 
 ## Libraries
 
@@ -28,7 +28,7 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
  * [aiograph](https://github.com/aiogram/aiograph) - an asynchronous Python Telegra.ph API wrapper.
  * [tg-codegen](https://github.com/aiogram/tg-codegen) - a code generator for aiogram 3.x with parser of Telegram Bot API docs.
 
-## Open-source bots
+## Bots
  
  *Collection of open-source bots made by community*
  
@@ -58,4 +58,7 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
  
  * [Разработка Telegram Bot на Python](https://www.youtube.com/playlist?list=PLwVBSkoL97Q3phZRyInbM4lShvS1cBl-U) - video lessons (RU).
  * [Пишем Telegram-ботов на Python (v2)](https://mastergroosha.github.io/telegram-tutorial-2/) - a book (RU).
- * [Разработка Телеграм ботов на Python](https://t.me/botfatherdev) - a channel with occasional tips (RU).
+ * [Разработка Телеграм ботов на Python](https://t.me/botfatherdev) - a telegram channel with tips (RU).
+
+# Contributing
+Your contributions are always welcome. If you have any question about this opinionated list, do not hesitate to contact me [@comictomcat](https://t.me/comictomcat) on Telegram or open an issue on GitHub.
