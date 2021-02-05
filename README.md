@@ -7,8 +7,8 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
   * [Libraries](#libraries)
   * [Open Source Bots](#open-source-bots)
   * [FAQs](#faqs)
-* [Resources](#resources)
-* [Learning Resources](#learning-resources)
+  * [Resources](#resources)
+  * [Learning Resources](#learning-resources)
 * [Contributing](#contributing)
 
 ## Templates
@@ -49,8 +49,12 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
 
 * [Как работают мидлвари?](https://t.me/aiogram_ru/133605) (RU)
 * [Зачем нужен локальный сервер Bot API?](https://t.me/aiogram_ru/339600) (RU)
+* [Встроенные фильтры](https://telegra.ph/Vstroennye-filtry-v-aiogram-12-30) (RU)
+* [Хранение фоток](https://telegra.ph/Pryamaya-ssylka-na-foto-s-telegraph-12-19) (RU)
+* [Миграции баз данных с помощью Alembic](https://telegra.ph/Migracii-baz-dannyh-gino--alembic-11-29) (RU)
+* [Запуск функций по таймеру](https://telegra.ph/Zapusk-funkcij-v-bote-po-tajmeru-11-28) (RU)
 
-# Resources
+## Resources
 
 *Collection of official docs, examples and channels*
 
@@ -64,7 +68,7 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
 * [Aiogram news](https://t.me/aiogram_live) - an aiogram news channel.
 * [Bot API news](https://t.me/BotNews) - a Bot API news channel.
 
-# Learning Resources
+## Learning Resources
 
 *Collection of guides, lessons, books and channels*
 
