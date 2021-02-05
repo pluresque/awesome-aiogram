@@ -15,32 +15,32 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
 *Template repositories*
 
 * [aiogram-bot-template](https://github.com/Forden/aiogram-bot-template) - a template for creating scalable bots with aiogram by F0rden.
+* [aiogram-template](https://github.com/comictomcat/aiogram-template) - a template created by comictomcat.
 * [aiogram-bot-template](https://github.com/Latand/aiogram-bot-template) - a template created by Latand.
 * [aiogram-template](https://github.com/F0rzend/aiogram-template) - a template created by F0rzend.
 * [tgbot_template](https://github.com/Tishka17/tgbot_template) - a template created by Tishka17.
-* [aiogram-template](https://github.com/comictomcat/aiogram-template) - a template created by comictomcat
 
 ## Libraries
 
 *Libraries, integrations and implementations*
 
-* [aiogram_dialog](https://github.com/Tishka17/aiogram_dialog) - FSM implemantation.
-* [aiogram-scenarion](https://github.com/Abstract-X/aiogram-scenario) - FSM implementation.
+* [tg-codegen](https://github.com/aiogram/tg-codegen) - a code generator for aiogram 3.x with parser of Telegram Bot API docs.
 * [tgintegration](https://github.com/JosXa/tgintegration) - an integration test and automation library.
 * [aiograph](https://github.com/aiogram/aiograph) - an asynchronous Python Telegra.ph API wrapper.
-* [tg-codegen](https://github.com/aiogram/tg-codegen) - a code generator for aiogram 3.x with parser of Telegram Bot API docs.
+* [aiogram-scenarion](https://github.com/Abstract-X/aiogram-scenario) - FSM implementation.
+* [aiogram_dialog](https://github.com/Tishka17/aiogram_dialog) - FSM implemantation.
 
 ## Bots
  
 *Collection of open-source bots made by community*
- 
-* [aiogram_bot](https://github.com/aiogram/bot) -  an example of usage aiogram framework and as admin-helper (@aiogram_bot).
-* [KarmaBot](https://github.com/bomzheg/KarmaBot) - a karma bot (@pythonscriptsbot).
+
 * [bot-api-search](https://github.com/Lamroy95/bot-api-search) - a bot that searches articles from Telegram Bot API Reference and Aiogram examples from Github (@tgApiSearchBot).
-* [telegram-multi-echo-bot](https://github.com/Forden/telegram-multi-echo-bot) - an example of usage multi-bot.
-* [my-id-bot](https://github.com/MasterGroosha/my-id-bot) - a bot to get ID of some chats (including your own ID).
 * [xkcd-password-generator](https://github.com/MasterGroosha/telegram-xkcd-password-generator) - Readable Passwords Generator For Telegram (Bot API).
+* [aiogram_bot](https://github.com/aiogram/bot) -  an example of usage aiogram framework and as admin-helper (@aiogram_bot).
+* [my-id-bot](https://github.com/MasterGroosha/my-id-bot) - a bot to get ID of some chats (including your own ID).
+* [telegram-multi-echo-bot](https://github.com/Forden/telegram-multi-echo-bot) - an example of usage multi-bot.
 * [casino-bot](https://github.com/MasterGroosha/telegram-casino-bot) - a virtual casino (via dices).
+* [KarmaBot](https://github.com/bomzheg/KarmaBot) - a karma bot (@pythonscriptsbot).
 
 ## FAQs
 
