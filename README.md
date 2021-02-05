@@ -56,10 +56,10 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
 
 * [Github Repo](https://github.com/aiogram/aiogram) - an aiogram repo.
 * [Aiogram Docs](http://docs.aiogram.dev/) - an aiogram docs.
- * [Built-in filters](https://docs.aiogram.dev/en/latest/dispatcher/filters.html#builtin-filters).
- * [Exceptions](https://docs.aiogram.dev/en/latest/utils/exceptions.html). 
+  * [Built-in filters](https://docs.aiogram.dev/en/latest/dispatcher/filters.html#builtin-filters).
+  * [Exceptions](https://docs.aiogram.dev/en/latest/utils/exceptions.html). 
 * [Aiogram examples](https://github.com/aiogram/aiogram/tree/dev-2.x/examples) - aiogram usage examples.
- * [Simple echo bot](https://github.com/aiogram/aiogram/blob/dev-2.x/examples/echo_bot.py).
+  * [Simple echo bot](https://github.com/aiogram/aiogram/blob/dev-2.x/examples/echo_bot.py).
 * [API Docs](https://core.telegram.org/bots/api) - an official Telegram Bot API docs.
 * [Aiogram news](https://t.me/aiogram_live) - an aiogram news channel.
 * [Bot API news](https://t.me/BotNews) - a Bot API news channel.
