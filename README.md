@@ -47,12 +47,12 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
 
 *Collection of frequently asked questions*
 
-* [Как работают мидлвари?](https://t.me/aiogram_ru/133605) (RU)
-* [Зачем нужен локальный сервер Bot API?](https://t.me/aiogram_ru/339600) (RU)
-* [Встроенные фильтры](https://telegra.ph/Vstroennye-filtry-v-aiogram-12-30) (RU)
-* [Хранение фоток](https://telegra.ph/Pryamaya-ssylka-na-foto-s-telegraph-12-19) (RU)
-* [Миграции баз данных с помощью Alembic](https://telegra.ph/Migracii-baz-dannyh-gino--alembic-11-29) (RU)
-* [Запуск функций по таймеру](https://telegra.ph/Zapusk-funkcij-v-bote-po-tajmeru-11-28) (RU)
+* 🇷🇺 [Как работают мидлвари?](https://t.me/aiogram_ru/133605) 
+* 🇷🇺 [Зачем нужен локальный сервер Bot API?](https://t.me/aiogram_ru/339600) 
+* 🇷🇺 [Встроенные фильтры](https://telegra.ph/Vstroennye-filtry-v-aiogram-12-30) 
+* 🇷🇺 [Хранение фоток](https://telegra.ph/Pryamaya-ssylka-na-foto-s-telegraph-12-19) 
+* 🇷🇺 [Миграции баз данных с помощью Alembic](https://telegra.ph/Migracii-baz-dannyh-gino--alembic-11-29) 
+* 🇷🇺 [Запуск функций по таймеру](https://telegra.ph/Zapusk-funkcij-v-bote-po-tajmeru-11-28) 
 
 ## Resources
 
@@ -72,10 +72,10 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
 
 *Collection of guides, lessons, books and channels*
 
-* [Разработка Telegram Bot на Python](https://www.youtube.com/playlist?list=PLwVBSkoL97Q3phZRyInbM4lShvS1cBl-U) - video lessons that cover several important topics (RU).
-* [Пишем Telegram-ботов на Python (v2)](https://mastergroosha.github.io/telegram-tutorial-2/) - an introduction book/guide (RU).
-* [Разработка Телеграм ботов на Python](https://t.me/botfatherdev) - a telegram channel with occasional tips and useful links (RU).
-* [Разработка Telegram ботов на Python](http://bit.ly/aiogram) - a complete course with a few extras (RU).
+* 🇷🇺 [Разработка Telegram Bot на Python](https://www.youtube.com/playlist?list=PLwVBSkoL97Q3phZRyInbM4lShvS1cBl-U) - video lessons that cover several important topics.
+* 🇷🇺 [Пишем Telegram-ботов на Python (v2)](https://mastergroosha.github.io/telegram-tutorial-2/) - an introduction book/guide.
+* 🇷🇺 [Разработка Телеграм ботов на Python](https://t.me/botfatherdev) - a telegram channel with occasional tips and useful links.
+* 🇷🇺 [Разработка Telegram ботов на Python](http://bit.ly/aiogram) - a complete course with a few extras.
 
 # Contributing
 
