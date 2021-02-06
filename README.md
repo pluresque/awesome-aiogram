@@ -7,8 +7,8 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
   * [Libraries](#libraries)
   * [Open Source Bots](#open-source-bots)
   * [FAQs](#faqs)
-  * [Resources](#resources)
-  * [Learning Resources](#learning-resources)
+* [Resources](#resources)
+* [Learning Resources](#learning-resources)
 * [Contributing](#contributing)
 
 ## Templates
@@ -54,21 +54,20 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
 * 🇷🇺 [Миграции баз данных с помощью Alembic](https://telegra.ph/Migracii-baz-dannyh-gino--alembic-11-29) 
 * 🇷🇺 [Запуск функций по таймеру](https://telegra.ph/Zapusk-funkcij-v-bote-po-tajmeru-11-28) 
 
-## Resources
+# Resources
 
 *Collection of official docs, examples and channels*
 
-* [Github Repo](https://github.com/aiogram/aiogram) - an aiogram repo.
-* [Aiogram Docs](http://docs.aiogram.dev/) - an aiogram docs.
-  * [Built-in filters](https://docs.aiogram.dev/en/latest/dispatcher/filters.html#builtin-filters).
-  * [Exceptions](https://docs.aiogram.dev/en/latest/utils/exceptions.html). 
-* [Aiogram examples](https://github.com/aiogram/aiogram/tree/dev-2.x/examples) - aiogram usage examples.
-  * [Simple echo bot](https://github.com/aiogram/aiogram/blob/dev-2.x/examples/echo_bot.py).
-* [API Docs](https://core.telegram.org/bots/api) - an official Telegram Bot API docs.
-* [Aiogram news](https://t.me/aiogram_live) - an aiogram news channel.
-* [Bot API news](https://t.me/BotNews) - a Bot API news channel.
+* [Aiogram Github Repository](https://github.com/aiogram/aiogram)
+  * [Bot Examples](https://github.com/aiogram/aiogram/tree/dev-2.x/examples)
+* [Telegram Bot API Documentation](https://core.telegram.org/bots/api)
+* [Aiogram Documentation](http://docs.aiogram.dev/)
+  * [Built-in Filters](https://docs.aiogram.dev/en/latest/dispatcher/filters.html#builtin-filters)
+  * [Exceptions](https://docs.aiogram.dev/en/latest/utils/exceptions.html) 
+* [Aiogram News](https://t.me/aiogram_live)
+* [Bot API News](https://t.me/BotNews)
 
-## Learning Resources
+# Learning Resources
 
 *Collection of guides, lessons, books and channels*
 
