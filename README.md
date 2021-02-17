@@ -20,6 +20,7 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
 * [aiogram-template](https://github.com/F0rzend/aiogram-template) - a template created by F0rzend.
 * [tgbot_template](https://github.com/Tishka17/tgbot_template) - a template created by Tishka17.
 * [aiogram-template](https://github.com/comictomcat/aiogram-template) - a template created by comictomcat.
+* [aiogram_template](https://github.com/fonco/aiogram_template) - an experimental template written in 3.0.
 
 ## Libraries
 
