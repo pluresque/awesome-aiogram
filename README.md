@@ -13,7 +13,7 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
 
 ## Templates
 
-*Template repositories*
+*Templates are usually a structure that's used for convenience of writing/maintaining bots*
 
 * [aiogram-bot-template](https://github.com/Forden/aiogram-bot-template) - a template for creating scalable bots with aiogram by F0rden.
 * [aiogram-bot-template](https://github.com/Latand/aiogram-bot-template) - a template created by Latand.
@@ -26,11 +26,12 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
 
 *Libraries, integrations and implementations*
 
-* [tg-codegen](https://github.com/aiogram/tg-codegen) - a code generator for aiogram 3.x with parser of Telegram Bot API docs.
-* [tgintegration](https://github.com/JosXa/tgintegration) - an integration test and automation library.
 * [aiograph](https://github.com/aiogram/aiograph) - an asynchronous Python Telegra.ph API wrapper.
-* [aiogram-scenarion](https://github.com/Abstract-X/aiogram-scenario) - FSM implementation.
 * [aiogram_dialog](https://github.com/Tishka17/aiogram_dialog) - FSM implemantation.
+* [aiogram_broadcaster](https://github.com/fonco/aiogram_broadcaster) - an implementation of broadcaster.
+* [tgintegration](https://github.com/JosXa/tgintegration) - an integration test and automation library.
+* [aiogram-scenarion](https://github.com/Abstract-X/aiogram-scenario) - FSM implementation.
+* [tg-codegen](https://github.com/aiogram/tg-codegen) - a code generator for aiogram 3.x with parser of Telegram Bot API docs.
 
 ## Bots
  
@@ -79,4 +80,4 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
 
 # Contributing
 
-Your contributions are always welcome. If you have any question about this opinionated list, do not hesitate to contact me [@comictomcat](https://t.me/comictomcat) on Telegram or open an issue on GitHub.
+Your contributions are always welcome. If you have any question about this opinionated list, do not hesitate to open a pull request or an issue on GitHub, although, try to stick with current formatting.
