@@ -9,6 +9,7 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
   * [FAQs](#faqs)
 * [Resources](#resources)
 * [Learning Resources](#learning-resources)
+* [Related Resources](#related-resources)
 * [Contributing](#contributing)
 
 ## Templates
@@ -30,7 +31,7 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
 * [aiogram_dialog](https://github.com/Tishka17/aiogram_dialog) - FSM implemantation.
 * [aiogram_broadcaster](https://github.com/fonco/aiogram_broadcaster) - an implementation of broadcaster.
 * [tgintegration](https://github.com/JosXa/tgintegration) - an integration test and automation library.
-* [aiogram-scenarion](https://github.com/Abstract-X/aiogram-scenario) - FSM implementation.
+* [aiogram-scenario](https://github.com/Abstract-X/aiogram-scenario) - FSM implementation.
 * [tg-codegen](https://github.com/aiogram/tg-codegen) - a code generator for aiogram 3.x with parser of Telegram Bot API docs.
 
 ## Bots
@@ -39,11 +40,13 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
 
 * [bot-api-search](https://github.com/Lamroy95/bot-api-search) - a bot that searches articles from Telegram Bot API Reference and Aiogram examples from Github (@tgApiSearchBot).
 * [xkcd-password-generator](https://github.com/MasterGroosha/telegram-xkcd-password-generator) - a readable passwords generator For Telegram (Bot API).
-* [aiogram_bot](https://github.com/aiogram/bot) - an example of usage aiogram framework and as admin-helper (@aiogram_bot).
+* [aiogram-bot](https://github.com/aiogram/bot) - an example of usage aiogram framework and as admin-helper (@aiogram_bot).
 * [my-id-bot](https://github.com/MasterGroosha/my-id-bot) - a bot to get ID of some chats (including your own ID).
-* [telegram-multi-echo-bot](https://github.com/Forden/telegram-multi-echo-bot) - multi-bot usage example.
+* [multi-echo-bot](https://github.com/Forden/telegram-multi-echo-bot) - multi-bot usage example.
 * [casino-bot](https://github.com/MasterGroosha/telegram-casino-bot) - a virtual casino (via dices).
 * [KarmaBot](https://github.com/bomzheg/KarmaBot) - a karma bot (@pythonscriptsbot).
+* [aws-serverless](https://github.com/DavisDmitry/aiogram-aws-serverless-example) - a simple echo bot using AWS API Gateway & Lambda. 
+* [yandex.cloud-serverless](https://github.com/DavisDmitry/aiogram-yandex.cloud-serverless-example) - a simple bot using Yandex.Cloud functions. 
 
 ## FAQs
 
@@ -77,6 +80,13 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
 * 🇷🇺 [Пишем Telegram-ботов на Python (v2)](https://mastergroosha.github.io/telegram-tutorial-2/) - an introduction book/guide.
 * 🇷🇺 [Разработка Телеграм ботов на Python](https://t.me/botfatherdev) - a telegram channel with occasional tips and useful links.
 * 🇷🇺 [Разработка Telegram ботов на Python](http://bit.ly/aiogram) - a complete course with a few extras.
+
+# Related resources
+
+*Collection of relevant resources*
+
+* [awesome-telegram](https://github.com/ebertti/awesome-telegram) - a collection of great groups, channels, bots and libraries 
+* [BotsList](https://github.com/DanySpin97/TelegramBotsList) - a list of all open-source bots. 
 
 # Contributing
 
