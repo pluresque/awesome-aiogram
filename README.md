@@ -5,7 +5,7 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
 * [Awesome Aiogram](#awesome-aiogram)
   * [Templates](#templates)
   * [Libraries](#libraries)
-  * [Open Source Bots](#open-source-bots)
+  * [Open Source Bots](#bots)
   * [FAQs](#faqs)
 * [Resources](#resources)
 * [Learning Resources](#learning-resources)
