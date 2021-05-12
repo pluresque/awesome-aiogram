@@ -97,9 +97,9 @@ a readable passwords generator For Telegram (Bot API) ([@passgenbot](https://t.m
 
 *Сollection of chat rooms where you can discuss something related to aiogram*
 
-* [aiogram](https://t.me/aiogram) - english chat
-* [aiogram [ru]](https://t.me/aiogram_ru) - russian chat
-* [Разработка ботов 🤖](https://t.me/bot_devs_novice) - russian chat, created by the founder of the course [Разработка Telegram ботов на Python](http://bit.ly/aiogram)
+* [aiogram](https://t.me/aiogram) - an official english chat
+* 🇷🇺 [aiogram](https://t.me/aiogram_ru) - an official russian chat
+* 🇷🇺 [Разработка ботов 🤖](https://t.me/bot_devs_novice) - a relevant chat by the creator of the course [Разработка Telegram ботов на Python](http://bit.ly/aiogram)
 
 # Contributing
 
