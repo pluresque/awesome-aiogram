@@ -10,6 +10,7 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
 * [Resources](#resources)
 * [Learning Resources](#learning-resources)
 * [Related Resources](#related-resources)
+* [Telegram Chats](#telegram-chats)
 * [Contributing](#contributing)
 
 ## Templates
@@ -91,6 +92,14 @@ a readable passwords generator For Telegram (Bot API) ([@passgenbot](https://t.m
 
 * [awesome-telegram](https://github.com/ebertti/awesome-telegram) - a collection of great groups, channels, bots and libraries 
 * [BotsList](https://github.com/DanySpin97/TelegramBotsList) - a list of all open-source bots. 
+
+# Telegram Chats
+
+*Сollection of chat rooms where you can discuss something related to aiogram*
+
+* [aiogram](https://t.me/aiogram) - english chat
+* [aiogram [ru]](https://t.me/aiogram_ru) - russian chat
+* [Разработка ботов 🤖](https://t.me/bot_devs_novice) - russian chat, created by the founder of the course [Разработка Telegram ботов на Python](http://bit.ly/aiogram)
 
 # Contributing
 
