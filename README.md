@@ -53,6 +53,8 @@ a readable passwords generator For Telegram (Bot API) ([@passgenbot](https://t.m
 * [aws-serverless](https://github.com/DavisDmitry/aiogram-aws-serverless-example) - a simple echo bot using AWS API Gateway & Lambda. 
 * [yandex.cloud-serverless](https://github.com/DavisDmitry/aiogram-yandex.cloud-serverless-example) - a simple bot using Yandex.Cloud functions. 
 * [on-route-bot](https://github.com/zensimilia/on-route-bot) - a bot will warn you about traffic jams on your route by schedule ([@onroutebot](https://t.me/onroutebot)).
+* [organizer-bot](https://github.com/DONSIMON92/organizer) - a bot will remind you of notes
+* [telegram-finance-bot](https://github.com/alexey-goloburdin/telegram-finance-bot) - a bot for tracking personal expenses and maintaining a budget
 
 ## FAQs
 
