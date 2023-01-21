@@ -35,6 +35,7 @@ A curated list of awesome aiogram templates, libraries, open-source bots and res
 * [tgintegration](https://github.com/JosXa/tgintegration) - an integration test and automation library.
 * [aiogram-scenario](https://github.com/Abstract-X/aiogram-scenario) - FSM implementation.
 * [tg-codegen](https://github.com/aiogram/tg-codegen) - a code generator for aiogram 3.x with parser of Telegram Bot API docs.
+* [aiogram-forms](https://github.com/13g10n/aiogram-forms) - a forms framework for aiogram 3.x for user input processing.
 
 ## Bots
  
