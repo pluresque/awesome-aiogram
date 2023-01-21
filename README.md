@@ -56,6 +56,7 @@ a readable passwords generator For Telegram (Bot API) ([@passgenbot](https://t.m
 * [on-route-bot](https://github.com/zensimilia/on-route-bot) - a bot will warn you about traffic jams on your route by schedule ([@onroutebot](https://t.me/onroutebot)).
 * [organizer-bot](https://github.com/DONSIMON92/organizer) - a bot will remind you of notes
 * [telegram-finance-bot](https://github.com/alexey-goloburdin/telegram-finance-bot) - a bot for tracking personal expenses and maintaining a budget
+* [slow-tunes-bot](https://github.com/zensimilia/slow-tunes-bot) - slowing down audio tracks at 33/45 rpm vinyl ratio for aesthetic pleasure ([@slowtunesbot](https://t.me/slowtunesbot))
 
 ## FAQs
 
